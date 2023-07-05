@@ -1,0 +1,13 @@
+body {
+    
+    background-color: black;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#time {
+    color: red;
+    font-size: 120px;
+    
+}
