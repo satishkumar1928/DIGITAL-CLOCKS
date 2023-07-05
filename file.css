@@ -5,6 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-images: url("https://th.bing.com/th/id/R.509c182ba9b5309a4d95f04a39566bdb?rik=avS95OYqS2%2bsRw&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f53%2f58%2fjpCP0g.jpg&ehk=s6mNEGMFkDh5klSOGQLXxy31uzwBGOrhx057fdmvFAE%3d&risl=&pid=ImgRaw&r=0")
 }
 #time {
     color: red;
